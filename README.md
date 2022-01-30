@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Roman
 #### I am a hobbyist web developer
-![I am a hobbyist web developer]()
+![I am a hobbyist web developer](https://github.com/romanqed/romanqed/raw/main/banner.jpg)
 
 I create mostly backend-related projects, usually in languages like Java or Python.
 
