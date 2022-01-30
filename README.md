@@ -8,6 +8,7 @@ Skills: Java / C/C++ / Python
 
 - 🔭 I’m currently working on Amaya web framework 
 - 🌱 I’m currently learning Java 11+ and some related to it 
+- 📫 How to reach me: https://vk.com/stepkakovalyov 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RomanQed)  
