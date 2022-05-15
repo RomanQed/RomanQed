@@ -1,12 +1,11 @@
 ### Hi there 👋, my name is Roman
 #### I am a hobbyist web developer
-![I am a hobbyist web developer](https://github.com/romanqed/romanqed/raw/main/banner.jpg)
 
 I create mostly backend-related projects, usually in languages like Java or Python.
 
 Skills: Java / C/C++ / Python
 
-- 🔭 I’m currently working on Amaya web framework 
+- 🔭 I’m currently working on [Amaya web framework](https://github.com/amayaframework) 
 - 🌱 I’m currently learning Java 11+ and some related to it 
 - 📫 How to reach me: https://www.reddit.com/user/lampa_torsherov/
 
