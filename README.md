@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Roman
+### Hi there 👋, my name is Lampa
 #### I am a hobbyist web developer
 
 I create mostly backend-related projects, usually in languages like Java or Python.
