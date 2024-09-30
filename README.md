@@ -7,7 +7,7 @@ Skills: Java / C/C++ / Python
 
 - 🔭 I’m currently working on [Amaya web framework](https://github.com/amayaframework) 
 - 🌱 I’m currently learning Java 11+ and some related to it 
-- 📫 How to reach me: t.me/lampa_torsherov
+- 📫 How to reach me: [@lampa_torsherov](https://t.me/lampa_torsherov)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RomanQed)  
