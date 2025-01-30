@@ -3,7 +3,7 @@
 
 I create mostly backend-related projects, usually in languages like Java or Python.
 
-Skills: Java / C/C++ / Python
+Skills: Java / Go / C/C++ / Python
 
 - 🔭 I’m currently working on [Amaya web framework](https://github.com/amayaframework) 
 - 🌱 I’m currently learning Java 11+ and some related to it 
