@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Lampa
-#### I am a hobbyist web developer
+#### I am a web developer
 
 I create mostly backend-related projects, usually in languages like Java or Python.
 
 Skills: Java / Go / C/C++ / Python
 
 - 🔭 I’m currently working on [Amaya web framework](https://github.com/amayaframework) 
-- 🌱 I’m currently learning Java 11+ and some related to it 
+- 🌱 I’m currently learning Golang and some related to it 
 - 📫 How to reach me: [@lampa_torsherov](https://t.me/lampa_torsherov)
 
 
